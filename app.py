@@ -5,7 +5,7 @@ st.sidebar.title("Escolha um modelo")
 st.sidebar.image("logo.png")
 
 
-carros =["porsche", "BMW", "audi", "ferrari", "lamborghini"]
+carros =["Porsche", "BMW", "Audi", "ferrari", "lamborghini"]
 
 opcao = st.sidebar.selectbox("Selecione o modelo alugado", carros)
 
